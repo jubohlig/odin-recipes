@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #eaeaea;
+    margin: 0 auto;
+}
+
+.content {
+    max-width: 650px;
+    background-color: whitesmoke;
+    text-align: center;
+    margin: 16px auto;
+    padding: 16px;
+}
+
+.headline {
+    color: #556b2f;
+    font-family: "Helvetica", sans-serif;
+    font-size: 48px;
+    text-transform: uppercase;
+    
+}
+
+ul {
+    max-width: 300px;
+    margin: 16px auto;
+    text-align: left;
+}
+
+ul li {
+    list-style-type: square;
+}
+
+a {
+    color: black;
+}
